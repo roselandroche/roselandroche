@@ -14,8 +14,6 @@ I am a Full Stack Web Developer based out of Vancouver British Columbia. I have 
 
 ### 🌱 Currently I am:
 
-- Learning better problem solving and algorithmic skills.
-
 - Working on becoming fully endorsed by Lambda School.
 
 - Looking for my first professional position in tech.
