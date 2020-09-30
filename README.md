@@ -12,23 +12,23 @@ Here are some ideas to get you started:
 
 I am a Full Stack Web Developer based out of Vancouver British Columbia. I have degrees in both Criminal Justice and Music Ministry, but decided to move into a programming career path to use my logical and detail oriented nature to its full potential.
 
-### 🌱 Currently I am:
+### :computer: Currently I am:
 
 - Working on becoming fully endorsed by Lambda School.
 
 - Looking for my first professional position in tech.
 
-### 💡 My goals include:
+### 🌱 My goals include:
 
 - Learning more about Docker, Testing, and GraphQL.
 
-### ⚡ Fun facts:
+### :airplane: Fun facts:
 
 - I love to travel and experience new things!
 - When I can't travel, I love to read, as well as explore the area I live.
 
 ### 📫  Connect with me on:
-- LinkedIn
+LinkedIn
   - https://www.linkedin.com/in/rose-landroche/
-- Twitter
-  - @creatively_rose
+Twitter
+  - https://twitter.com/creatively_rose
