@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there, I'm Rose!  👋
-### 😄 Pronouns: She, Her
+### :woman: Pronouns: She, Her
 
 I am a Full Stack Web Developer based out of Vancouver British Columbia. I have degrees in both Criminal Justice and Music Ministry, but decided to move into a programming career path to use my logical and detail oriented nature to its full potential.
 
