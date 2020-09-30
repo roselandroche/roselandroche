@@ -10,13 +10,15 @@ Here are some ideas to get you started:
 ## Hi there, I'm Rose!  👋
 ### 😄 Pronouns: She, Her
 
-I am a Full Stack Web Developer originally from Western New York. I have degrees in both Criminal Justice and Music Ministry, but decided to move into a programming career path to use my logical and detail oriented nature to its full potential.
+I am a Full Stack Web Developer based out of Vancouver British Columbia. I have degrees in both Criminal Justice and Music Ministry, but decided to move into a programming career path to use my logical and detail oriented nature to its full potential.
 
 ### 🌱 Currently I am:
 
 - Learning better problem solving and algorithmic skills.
 
-- Working on completing the Full Stack Web Development track at Lambda School.
+- Working on becoming fully endorsed by Lambda School.
+
+- Looking for my first professional position in tech.
 
 ### 💡 My goals include:
 
