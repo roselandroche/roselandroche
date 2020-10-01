@@ -30,6 +30,3 @@ I am a Full Stack Web Developer based out of Vancouver British Columbia. I have 
 ### 📫  Connect with me on:
 LinkedIn
   - https://www.linkedin.com/in/rose-landroche/
-  
-Twitter
-  - https://twitter.com/creatively_rose
