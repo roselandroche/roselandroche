@@ -26,7 +26,7 @@ I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have
 
 - Learning more about Docker, Testing, and GraphQL
 
-- Learning more programming languages (ex. Java)
+- Learning more programming languages (ex. Java, PHP, Drupal)
 
 ### :airplane: Fun facts:
 
