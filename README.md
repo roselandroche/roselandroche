@@ -24,7 +24,9 @@ I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have
 
 ### 🌱 My goals include:
 
-- Learning more about Docker, Testing, and GraphQL
+- Learning more about Docker and GraphQL
+
+- Expanding my knowledge of testing on the front and back end
 
 - Learning more programming languages (ex. Java, PHP, Drupal)
 
