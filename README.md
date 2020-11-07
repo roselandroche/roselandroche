@@ -10,11 +10,9 @@ Here are some ideas to get you started:
 ## Hi, I'm Rose!  👋
 ### :woman: Pronouns: She, Her
 
-I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have an A.A. in Criminal Justice and a B.A. in Music, but decided to move into computer programming in order to channel my creativity, and also my analytical characteristics, into my career. Since then I have successfully completed the Full Stack Web Development and Computer Science track with Lambda School.
+I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have an A.A. in Criminal Justice and a B.A. in Music, but decided to move into computer programming in order to channel my creativity, and also my analytical characteristics, into my career. Since then I have successfully completed the Full Stack Web Development with Lambda School and been fully endorsed.
 
 ### :computer: Currently I am:
-
-- Working towards becoming fully endorsed by Lambda School
 
 - Expanding my professional network
 
@@ -28,7 +26,7 @@ I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have
 
 - Expanding my knowledge of testing on the front and back end
 
-- Learning more programming languages (ex. Java, PHP, Drupal)
+- Learning more programming languages (ex. Java, PHP, Drupal, WordPress)
 
 ### :airplane: Fun facts:
 
