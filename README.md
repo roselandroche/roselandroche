@@ -16,7 +16,7 @@ I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have
 
 - Expanding my professional network
 
-- Looking for my first professional position in tech
+- Starting my career as a Junior Developer
 
 - Consistently contributing to GitHub with personal projects
 
