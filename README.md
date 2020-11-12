@@ -16,7 +16,9 @@ I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have
 
 - Expanding my professional network
 
-- Starting my career as a Junior Developer
+- Working as a Junior Developer
+
+- Learning WordPress, PHP, and Drupal
 
 - Consistently contributing to GitHub with personal projects
 
@@ -26,7 +28,7 @@ I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have
 
 - Expanding my knowledge of testing on the front and back end
 
-- Learning more programming languages (ex. Java, PHP, Drupal, WordPress)
+- Learning more programming languages
 
 ### :airplane: Fun facts:
 
@@ -35,6 +37,8 @@ I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have
 - I love to explore the area I live
 
 - I have a life long passion for reading
+
+- I also enjoy knitting and crocheting, usually while catching up on shows or movies
 
 ### 📫  Connect with me on:
 
