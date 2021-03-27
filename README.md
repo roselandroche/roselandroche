@@ -20,8 +20,6 @@ I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have
 
 - Learning WordPress, PHP, and Drupal
 
-- Consistently contributing to GitHub with personal projects
-
 ### 🌱 My goals include:
 
 - Learning more about Docker and GraphQL
@@ -32,13 +30,13 @@ I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have
 
 ### :airplane: Fun facts:
 
-- I enjoy traveling and experiencing new things
+- I am teaching myself Italian
 
-- I love to explore the area I live
+- I love exploring the city
 
-- I have a life long passion for reading
+- I have a life long passion for reading (physical books, ebooks, audiobooks, all of the words)
 
-- I also enjoy knitting and crocheting, usually while catching up on shows or movies
+- I also enjoy knitting and crocheting
 
 ### 📫  Connect with me on:
 
