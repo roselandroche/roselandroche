@@ -34,11 +34,11 @@ I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have
 
 - I am teaching myself Italian
 
-- I love exploring the city
+- I love exploring
 
 - I have a life long passion for reading (physical books, ebooks, audiobooks, all of the words)
 
-- I also enjoy knitting and crocheting
+- I also enjoy yoga and knitting
 
 ### 📫  Connect with me on:
 
