@@ -16,11 +16,13 @@ I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have
 
 - Expanding my professional network
 
-- Working as a Junior Developer
+- Working as a Junior Developer in a contract position
 
-- Spiffing up my portfolio, created in WordPress
+- Creating a new version of my portfolio in WordPress
 
 - Learning WordPress, PHP, and Drupal
+
+- Practicing JavaScript/React/etc skills
 
 ### 🌱 My goals include:
 
