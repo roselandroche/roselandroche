@@ -16,31 +16,23 @@ I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have
 
 - Expanding my professional network
 
-- Working as a Junior Developer in a contract position
+- Working as a Web Developer
 
 - Creating a new version of my portfolio in WordPress
 
-- Learning WordPress, PHP, and Drupal
-
-- Practicing JavaScript/React/etc skills
+- Learning Gatsby, Headless WordPress, and new ways to test
 
 ### 🌱 My goals include:
 
-- Learning more about Docker and GraphQL
-
-- Expanding my knowledge of testing on the front and back end
+- Learning more about automated testing
 
 - Learning more programming languages
 
 ### :airplane: Fun facts:
 
-- I am teaching myself Italian
+- I am teaching myself Italian and French
 
 - I love exploring
-
-- I have a life long passion for reading (physical books, ebooks, audiobooks, all of the words)
-
-- I also enjoy yoga and knitting
 
 ### 📫  Connect with me on:
 
