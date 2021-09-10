@@ -18,8 +18,6 @@ I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have
 
 - Working as a Web Developer
 
-- Creating a new version of my portfolio in WordPress
-
 - Learning Gatsby, Headless WordPress, and new ways to test
 
 ### 🌱 My goals include:
