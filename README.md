@@ -14,15 +14,15 @@ I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have
 
 ### :computer: Currently I am:
 
-- Working as a Web Developer
-
-- Learning Gatsby and Headless WordPress
+- Learning Gatsby, Cypress, QA Processes...
 
 - Exploring my appreciation of Automated Testing
 
 ### 🌱 My goals include:
 
 - Learning more about testing
+
+- Joining organizations that support causes I identify with
 
 ### :airplane: Fun facts:
 
