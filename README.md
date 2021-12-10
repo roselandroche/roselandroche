@@ -14,7 +14,9 @@ I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have
 
 ### :computer: Currently I am:
 
-- Learning Gatsby, Cypress, QA Processes...
+- Brushing up on skills via daily code challenges
+
+- Learning Cypress, QA Processes...
 
 - Exploring my appreciation of Automated Testing
 
@@ -22,7 +24,7 @@ I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have
 
 ### 🌱 My goals include:
 
-- Learning more about testing
+- Transitioning into a QA career
 
 - Joining organizations that support causes I identify with
 
