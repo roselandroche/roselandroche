@@ -14,13 +14,11 @@ I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have
 
 ### :computer: Currently I am:
 
-- Brushing up on skills via daily code challenges
-
 - Learning Cypress, QA Processes...
 
 - Exploring my appreciation of Automated Testing
 
-- Practicing algorithms, and moving solutions into my own repo so I can practice writing out the tests against those algorithms
+- Practicing algorithms/code challenges daily, and moving solutions into my own repo so I can practice writing out the tests against those algorithms
 
 ### 🌱 My goals include:
 
