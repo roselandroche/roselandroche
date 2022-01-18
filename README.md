@@ -10,20 +10,19 @@ Here are some ideas to get you started:
 # Hi, I'm Rose!  👋
 ### :woman: Pronouns: She, Her
 
-I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have an A.A. in Criminal Justice and a B.A. in Music, but decided to move into computer programming in order to channel my attention to detail and analysis, into my career. I have successfully completed the Full Stack Web Development course with Lambda School and been fully endorsed. Since then I've had a contract position as a Junior Web Developer, and a short term position as a Web Developer. I'm currently looking for my next opportunity!
+I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have an A.A. in Criminal Justice and a B.A. in Music, but decided to move into computer programming in order to channel my attention to detail and analysis, into my career. I have successfully completed the Full Stack Web Development course with Lambda School and been fully endorsed. Since then I've had a contract position as a Junior Web Developer, and a short term position as a Web Developer. I'm currently working as a Junior QA Developer!
 
 ### :computer: Currently I am:
 
-- Learning Cypress, QA Processes...
+- Learning Cypress, QA Processes, more backend programming...
 
 - Exploring my appreciation of Automated Testing
 
-- Practicing algorithms/code challenges daily, and moving solutions into my own repo so I can practice writing out the tests against those algorithms
+- Practicing algorithms/code challenges, and moving solutions into my own repo so I can practice writing out the tests against those algorithms
 
 ### 🌱 My goals include:
 
-- Transitioning into a QA career
-
+- Traveling as much as possible (ideal destinations being Italy, Bali, the Amazon rainforest, etc)
 - Joining organizations that support causes I identify with
 
 ### :airplane: Fun facts:
