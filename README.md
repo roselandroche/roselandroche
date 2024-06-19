@@ -10,19 +10,19 @@ Here are some ideas to get you started:
 # Hi, I'm Rose!  👋
 ### :woman: Pronouns: She, Her
 
-I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have an A.A. in Criminal Justice and a B.A. in Music, but decided to move into computer programming in order to channel my attention to detail and analysis, into my career. I have successfully completed the Full Stack Web Development course with Lambda School and been fully endorsed. Since then I've had a contract position as a Junior Web Developer, and a short term position as a Web Developer. I'm currently working as a Junior QA Developer!
+I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have an A.A. in Criminal Justice and a B.A. in Music, but decided to move into computer programming in order to channel my attention to detail and analysis, into my career. I have successfully completed the Full Stack Web Development course with Lambda School and been fully endorsed. Since then I've worked as QA Developer 1, Junior QA Developer, Junior Web Developer, and again as a Web Developer. I'm currently working on learning more about cybersecurity!
 
 ### :computer: Currently I am:
 
-- Learning Cypress, QA Processes, more backend programming...
+- Learning Cybersecurity
 
-- Exploring my appreciation of Automated Testing
+- Exploring my creativity
 
-- Practicing algorithms/code challenges, and moving solutions into my own repo so I can practice writing out the tests against those algorithms
+- Practicing algorithms/code challenges
 
 ### 🌱 My goals include:
 
-- Traveling as much as possible (ideal destinations being Italy, Bali, the Amazon rainforest, etc)
+- Traveling as much as possible (ideal destinations being Ecuador, Argentina, Italy, Bali, Ireland, etc)
 - Joining organizations that support causes I identify with
 
 ### :airplane: Fun facts:
@@ -32,14 +32,10 @@ I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have
     - chocolate beer (not awesome)
     - hiking up mountains
     - gulf island adventures
-    - turning yarn into stuff
+- I love B rated movies involving creatures like sharks and alligators! Lake Placid was one of my first favorites :D 
 
 ### 📫  Connect with me on:
 
 LinkedIn
 
   - https://www.linkedin.com/in/rose-landroche/
-
-### Check out my portfolio site: 
-
-  - https://rlandroche.com/
