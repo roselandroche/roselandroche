@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 # Hi, I'm Rose!  👋
 ### :woman: Pronouns: She, Her
 
-I am a Full Stack Web Developer based out of Vancouver, British Columbia. I have an A.A. in Criminal Justice and a B.A. in Music, but decided to move into computer programming in order to channel my attention to detail and analysis, into my career. I have successfully completed the Full Stack Web Development course with Lambda School and been fully endorsed. Since then I've worked as QA Developer 1, Junior QA Developer, Junior Web Developer, and again as a Web Developer. I'm currently working on learning more about cybersecurity!
+I am a Full Stack Web Developer based out of Vancouver, British Columbia. Previously I worked as a QA Developer, and in a few general Software Developer roles. I have an A.A. in Criminal Justice and a B.A. in Music, but decided to move into computer programming in order to channel my attention to detail and analysis into my career. I am certified in AWS as a CCP, in ISC2 as CC, and in Full Stack Web Development course with Lambda School. I'm currently working on learning more about cybersecurity!
 
 ### :computer: Currently I am:
 
